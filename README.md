@@ -9,5 +9,5 @@ In today’s streaming landscape, users often struggle to discover new music tha
 - Real-time or batch processing of user content   
 
 ---
-
+![Workflow Diagram](assets/workflow.png)
 
